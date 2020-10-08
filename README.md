@@ -1,4 +1,4 @@
-### Hi I'm Habtamu Desalegn 👋
+### Hi I'm Habtamu 👋
 
 Here are some ideas to get you started:
 
