@@ -2,8 +2,6 @@
 
 ## I'm a MSc Student @Ca' Foscari university, Venice (Italy)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently doing my graduation thesis
 - 🌱 I’m currently learning Machine Learning, Python, AWS
 - 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages & brush up on my maths/statistics
