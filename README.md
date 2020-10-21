@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently doing my graduation thesis
 - 🌱 I’m currently learning Machine Learning, Python, AWS
 - 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages & brush up on my maths/statistics
-⚡ Fun facts: I love cooking 🍜, classic music 🎧, and reading tecnical books
+- ⚡ Fun facts: I love cooking 🍜, classic music 🎧, and reading tecnical books
 
 ### Connect with me:
 
