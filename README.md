@@ -4,7 +4,7 @@
 ## I'm a MSc Student @Ca' Foscari university, Venice (Italy)
 
 - 🔭 I’m currently doing my graduation thesis
-- 🌱 I’m currently learning Machine Learning, Python, AWS
+- 🌱 I’m currently learning Machine Learning, Python, AWS, Microsoft Azure
 - 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages & brush up on my maths/statistics
 - ⚡ Fun facts: I love cooking 🍜, classic music 🎧, and reading books
 
