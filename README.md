@@ -4,9 +4,9 @@
 ## I'm a MSc Student @Ca' Foscari university, Venice (Italy)
 
 - 🔭 I’m currently doing my graduation thesis
-- 🌱 I’m currently learning Machine Learning, Python, AWS, Microsoft Azure
+- 🌱 I’m currently learning Machine Learning, Python, TypeScript, AWS ML Service, Microsoft Azure ML Service
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), reading Books and Online materials.
-- 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages & brush up on my maths/statistics
+- 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages eg. Kotlin & brush up on my maths/statistics
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/habtamudesalegn/)
 
 ### Connect with me:
