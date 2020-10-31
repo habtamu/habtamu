@@ -5,8 +5,9 @@
 
 - 🔭 I’m currently doing my graduation thesis
 - 🌱 I’m currently learning Machine Learning, Python, AWS, Microsoft Azure
+- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), reading Books and Online materials.
 - 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages & brush up on my maths/statistics
-- ⚡ Fun facts: I love cooking 🍜, classic music 🎧, and reading books
+- 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/habtamudesalegn/)
 
 ### Connect with me:
 
