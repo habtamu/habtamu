@@ -1,4 +1,4 @@
-### Hi there, I'm Habtamu D. Woldeyohannes 👋
+### Hi there, I'm Habtamu Desalegn Woldeyohannes 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/habtamud?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabtamud&screen_name=habtamud)
 
 ## I'm a MSc Student @Ca' Foscari university, Venice (Italy)
