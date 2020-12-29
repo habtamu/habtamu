@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently doing my graduation thesis.
 - 🌱 I’m currently learning Data Science, Machine Learning, Big Data.
-- 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages eg. Kotlin & start job as a Data Scientist
+- 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages eg. Kotlin & Joining a good data science team
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/habtamudesalegn/)
 
 ### Connect with me:
