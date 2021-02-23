@@ -10,26 +10,7 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-### Connect with me:
-
-[<img align="left" alt="https://habtamu.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="habtamu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="habtamu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-<!--
-<!## **Language and Tools**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habtamu&theme=radical)
-
-<br/> 
--->
 
 <br />
 Those I know:
@@ -59,9 +40,5 @@ Those I'm learning:
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <br />
-<br />
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=habtamu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
--->
-[twitter]: https://twitter.com/habtamud
+
 [linkedin]: https://www.linkedin.com/in/habtamudesalegn
