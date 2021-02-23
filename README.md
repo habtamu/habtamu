@@ -25,6 +25,7 @@
 <br/> 
 -->
 
+<br />
 Those I know:
 <br />
 <img align="left" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
@@ -53,9 +54,9 @@ Those I'm learning:
 
 <br />
 <br />
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=habtamu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+-->
 [website]: https://habtamu.github.io/ 
 [twitter]: https://twitter.com/habtamud
 [linkedin]: https://www.linkedin.com/in/habtamudesalegn/
