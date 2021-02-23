@@ -8,6 +8,12 @@
 - 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages eg. Kotlin & Joining a good data science team
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/habtamudesalegn/)
 
+
+### Connect with me:
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### Connect with me:
 
 [<img align="left" alt="https://habtamu.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -57,7 +63,5 @@ Those I'm learning:
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=habtamu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
-[website]: https://habtamu.github.io/ 
 [twitter]: https://twitter.com/habtamud
-[linkedin]: https://www.linkedin.com/in/habtamudesalegn/
-
+[linkedin]: https://www.linkedin.com/in/habtamudesalegn
