@@ -17,11 +17,11 @@
 
 <br />
 
-## **Language and Tools**
+<!## **Language and Tools**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habtamu&theme=radical)
 
-<br/>
+<br/> -->
 
 Those I know:
 <br />
