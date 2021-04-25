@@ -5,14 +5,13 @@
 
 - 🔭 I’m currently doing my graduation thesis.
 - 🌱 I’m currently learning Data Science, Machine Learning, Big Data.
-- 🤔 2021 Goals: Defend my Msc thesis, learn new programming languages eg. Kotlin & Joining a good data science team
+- 🤔 2021 Goals: Defend my Msc thesis, Joining a good data science team
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/habtamudesalegn/)
 
 
 <br />
 Those I know:
 
-<img align="left" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
