@@ -3,9 +3,8 @@
 
 ## I'm a MSc Student @Ca' Foscari university, Venice (Italy)
 
-- 🔭 I’m currently doing my graduation thesis.
 - 🌱 I’m currently learning Data Science, Machine Learning, Big Data.
-- 🤔 2021 Goals: Defend my Msc thesis, Joining a good data science team
+- 🤔 2021 Goals: Joining a good data science team
 
 
 
