@@ -1,5 +1,7 @@
-### Hi there, I'm Habtamu Desalegn Woldeyohannes 👋
+### Hi there, I'm Habtamu Desalegn Woldeyohannes
 [![Twitter Follow](https://img.shields.io/twitter/follow/habtamud?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabtamud&screen_name=habtamud)
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" /> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="habtamudesalegn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/habtamudesalegn?trk=profile-badge">Habtamu D. Woldeyohannes</a></div>
 
 ## I'm a MSc Student @Ca' Foscari university, Venice (Italy)
 
