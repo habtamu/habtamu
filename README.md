@@ -11,6 +11,7 @@ I'm internally motivated and always eager to improve: My journey into coding mea
 
 🧰 ToolBox
 <br />
+<br />
 <img src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default"  alt=".Net logo" width="50" hieght="50"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"  alt="C# logo" width="50" hieght="50"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  alt="SQL logo" width="50" hieght="50"/> 
@@ -31,5 +32,6 @@ I'm internally motivated and always eager to improve: My journey into coding mea
 Here are some projects:
 <br />
 💬 <a href="https://sites.google.com/view/ris-software/home">RIS software</a>
+<br />
 💬 <a href="https://sites.google.com/view/ras/student">Registrar Automation System</a>
 
