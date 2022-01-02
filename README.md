@@ -1,12 +1,17 @@
-### Hi there, I'm Habtamu Desalegn Woldeyohannes
-[![Twitter Follow](https://img.shields.io/twitter/follow/habtamud?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabtamud&screen_name=habtamud)
+### Hi, I'm Habtamu 👋
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" /> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="habtamudesalegn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/habtamudesalegn?trk=profile-badge">Habtamu D. Woldeyohannes</a></div>
+---
 
-Software engineer with hands on experience using .NET, C#, PostgreSQL, Node, Express, React, React Native, GraphQL to build web/desktop/mobile apps. Strong engineering professional with a Master of Science (MS) in Computer Science focused in Data Analytics and Data Management from Ca’Foscari University, Italy.
+I'm a full-stack software engineer currently working as a mobile app developer at Urbana Smart Solutions SRL (https://urbanasmart.com/).
 
-I'm internally motivated and always eager to improve: My journey into coding means I'm ready to dive right into new skills and learn as I go!
+I have hands on experience using .NET, C#, Javascript/TypeScript, PostgreSQL, Node, Express, React, React Native, GraphQL to build web/desktop/mobile apps. In addition to that, a Master of Science (MS) in Computer Science focused in Data Analytics and Data Management from Ca’Foscari University, Italy.
 
+I'm passionate about startups and solving problems using software.
+- 🔧 Building machine learning classifiers.
+- 🔧 Building custome software applications:
+  - 💬 <a href="https://sites.google.com/view/ris-software/home">RIS software</a>
+  - 💬 <a href="https://sites.google.com/view/ras/student">Registrar Automation System</a>
+   
 ---
 
 🧰 ToolBox
@@ -28,10 +33,4 @@ I'm internally motivated and always eager to improve: My journey into coding mea
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" hieght="50" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="50" hieght="50" />
 
----
-Here are some projects:
-<br />
-💬 <a href="https://sites.google.com/view/ris-software/home">RIS software</a>
-<br />
-💬 <a href="https://sites.google.com/view/ras/student">Registrar Automation System</a>
 
