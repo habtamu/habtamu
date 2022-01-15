@@ -8,6 +8,7 @@ I have hands on experience using .NET, C#, Javascript/TypeScript, PostgreSQL, No
 
 I'm passionate about startups and solving problems using software.
 - 🔧 Building machine learning classifiers.
+- 🔧 Create a RESTful and GraphQL APIs using NodeJS / C#.
 - 👨‍💻 Coding custome software applications:
   - 💬 <a href="https://sites.google.com/view/ris-software/home">RIS software</a>
   - 💬 <a href="https://sites.google.com/view/ras/student">Registrar Automation System</a>
