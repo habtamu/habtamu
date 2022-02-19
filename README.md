@@ -2,7 +2,7 @@
 
 ---
 
-I'm a full-stack software engineer currently working as a mobile app developer at Urbana Smart Solutions SRL (https://urbanasmart.com/).
+a software engineer currently working as a mobile app developer at Urbana Smart Solutions SRL (https://urbanasmart.com/).
 
 I have hands on experience using .NET, C#, Javascript/TypeScript, PostgreSQL, Node, Express, React, React Native, GraphQL to build web/desktop/mobile apps. In addition to that, a Master of Science (MS) in Computer Science focused in Data Analytics and Data Management from Ca’Foscari University, Italy.
 
