@@ -3,7 +3,7 @@
 ---
 
 A software engineer currently working as a mobile and Web application developer at Urbana Smart Solutions SRL (https://urbanasmart.com/).
- - <a href="https://play.google.com/store/apps/details?id=com.urbanasolutions.toolkit&gl=US">Urbana Toolkit app</a> :       
+ - <a href="https://play.google.com/store/apps/details?id=com.urbanasolutions.toolkit&gl=US">Urbana Toolkit app</a>       
  - Urbana IoT Platform : https://eu.urbanasolutions.io/
 
 I have hands on experience using .NET, C#, Javascript/TypeScript, PostgreSQL, Node, Express, React, React Native, GraphQL to build web/desktop/mobile apps. In addition to that, a Master of Science (MS) in Computer Science focused in Data Analytics and Data Management from Ca’Foscari University, Italy.
