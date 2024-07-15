@@ -20,7 +20,7 @@ I'm passionate about startups and solving problems using software.
    
 ---
 
-## 🧰 ToolBox
+🧰 ToolBox
 <br />
 <br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
