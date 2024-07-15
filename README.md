@@ -7,6 +7,7 @@
 A software engineer currently working as a mobile and Web application developer at Urbana Smart Solutions SRL (https://urbanasmart.com/).
  - <a href="https://play.google.com/store/apps/details?id=com.urbanasolutions.toolkit&gl=US">Urbana Toolkit app</a>       
  - Urbana IoT Platform : https://eu.urbanasolutions.io/
+ - Agrimachine mobile app
 
 I have hands on experience using .NET, C#, Javascript/TypeScript, PostgreSQL, Node, Express, React, React Native, GraphQL to build web/desktop/mobile apps. In addition to that, a Master of Science (MS) in Computer Science focused in Data Analytics and Data Management from Ca’Foscari University, Italy.
 
@@ -19,7 +20,7 @@ I'm passionate about startups and solving problems using software.
    
 ---
 
-🧰 ToolBox
+## 🧰 ToolBox
 <br />
 <br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
@@ -40,5 +41,7 @@ I'm passionate about startups and solving problems using software.
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" hieght="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 
+## 📊 GitHub Statistics
 
-
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=habtamu&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=habtamu&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
