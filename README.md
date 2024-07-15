@@ -1,6 +1,8 @@
-### Hi, I'm Habtamu 👋
+# Habtamu Desalegn Woldeyohanes, MSc
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=habtamu&style=flat)
+
+## Welcome to my GitHub profile!
 
 A software engineer currently working as a mobile and Web application developer at Urbana Smart Solutions SRL (https://urbanasmart.com/).
  - <a href="https://play.google.com/store/apps/details?id=com.urbanasolutions.toolkit&gl=US">Urbana Toolkit app</a>       
