@@ -1,47 +1,25 @@
-# Habtamu Desalegn Woldeyohanes, MSc
-
 ![Profile Views](https://komarev.com/ghpvc/?username=habtamu&style=flat)
+### Software Engineer / React Native developer
 
-## Welcome to my GitHub profile!
+⤷ Exploring the world of React Native as a Software Engineer at Urbana Smart Solutions and always looking to improve my skills. 
 
-A software engineer currently working as a mobile and Web application developer at Urbana Smart Solutions SRL (https://urbanasmart.com/).
- - <a href="https://play.google.com/store/apps/details?id=com.urbanasolutions.toolkit&gl=US">Urbana Toolkit app</a>       
- - Urbana IoT Platform : https://eu.urbanasolutions.io/
- - Agrimachine mobile app
+<a aligh="left" href="https://urbanasmart.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
+ 
+  <a aligh="left" href="mailto:habtamu.desalegn@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> 
+  
+  <a aligh="left" href="https://twitter.com/habtamud" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> 
+  
+  <a aligh="left" href="https://www.linkedin.com/in/habtamudesalegn/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-I have hands on experience using .NET, C#, Javascript/TypeScript, PostgreSQL, Node, Express, React, React Native, GraphQL to build web/desktop/mobile apps. In addition to that, a Master of Science (MS) in Computer Science focused in Data Analytics and Data Management from Ca’Foscari University, Italy.
 
-I'm passionate about startups and solving problems using software.
-- 🔧 Building machine learning classifiers.
-- 🔧 Create a RESTful and GraphQL APIs using NodeJS / C#.
-- 👨‍💻 Coding custome software applications:
-  - 💬 <a href="https://sites.google.com/view/ris-software/home">RIS software</a>
-  - 💬 <a href="https://sites.google.com/view/ras/student">Registrar Automation System</a>
-   
----
+⚐ Based in Venezia, Italy
 
-🧰 ToolBox
-<br />
-<br />
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  alt="Node Logo" width="50" hieght="50"/> 
-<img src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default"  alt=".Net logo" width="50" hieght="50"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"  alt="C# logo" width="50" hieght="50"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  alt="SQL logo" width="50" hieght="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  alt="PostGreSQL logo" width="50" hieght="50"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  alt="Python logo" width="50" hieght="50"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"  alt="scikit-learn logo" width="50" hieght="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" hieght="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  alt="Git logo" width="50" hieght="50"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="50" hieght="50" />
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" hieght="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+ϟ Currently Exploring Native modules with JSI and Fabric
+ϟ Building machine learning classifiers.
 
-## 📊 GitHub Statistics
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=habtamu&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=habtamu&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
+ ## Skills
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> 
+   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/kotlin.svg" alt="Kotlin" width="25" height="25" /></a> 
+   <a href="https://www.apple.com/swift/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a> 
+   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a>  
